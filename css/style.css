@@ -914,7 +914,9 @@ a.icon.icon-pera {
     line-height: 22px;
     font-weight: bold;
 }
-
+.navbar-text.beng-seng span a {
+    color: #fff;
+}
 
 
 @media (min-width: 768px) and (max-width: 1000px) {
