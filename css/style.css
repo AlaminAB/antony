@@ -15,7 +15,9 @@ body {
 p {
     line-height: 24px;
 }
-
+section#contact p a {
+    color: #999999;
+}
 ol,
 ul {
     list-style: none;
