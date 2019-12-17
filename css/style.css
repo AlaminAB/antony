@@ -191,7 +191,7 @@ nav.navbar {
 
 #banner {
     background: url('../img/bg-banner.jpg') no-repeat fixed;
-    background-size: cover;
+    background-size: 100% 100%;
     min-height: 580px;
     position: relative;
 }
@@ -203,8 +203,8 @@ nav.navbar {
 }
 
 .bg-color {
-    background-color: rgba(0, 0, 0, 0.6);
-    /* background-color: RGBA(13, 70, 83, 0.78); */
+    /* background-color: rgba(0, 0, 0, 0.6); */
+    /* background-color: rgba(13, 70, 83, 0.2); */
     min-height: 580px;
 }
 
